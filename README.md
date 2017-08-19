@@ -20,11 +20,11 @@
 
 - **OS X, Linux:** 执行以下命令（也可用于更新）
 
-        curl -L git.io/meowproxy | bash
+        curl -L github.com/zxysm/MEOW/raw/master/install.sh | bash
 
   环境变量 `MEOW_INSTALLDIR` 可以指定安装的路径，若该环境变量不是目录则询问用户
-- **Windows:** [下载地址](https://github.com/dou4cc/MEOW/tree/gh-pages/dist/windows/)
-- **从源码安装:** 安装 [Go](http://golang.org/doc/install)，然后 `go get github.com/renzhn/MEOW`
+- **Windows:** [下载地址](https://github.com/zxysm/MEOW/tree/gh-pages/dist/windows/)
+- **从源码安装:** 安装 [Go](http://golang.org/doc/install)，然后 `go get github.com/zxysm/MEOW`
 
 ## 配置
 
